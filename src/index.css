@@ -1,21 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Inter&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 :root {
+  font-family: 'Dela Gothic One', cursive;
+  font-family: 'Inter', sans-serif;
   --first-primary-color: #0A071B;
   --second-primary-color:#F58859 ;
   --secondary-color: #2A263F;
 }
 body {
   font-family: 'Dela Gothic One', cursive;
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
   font-family: 'Dela Gothic One', cursive;
+  font-family: 'Inter', sans-serif;
 }
