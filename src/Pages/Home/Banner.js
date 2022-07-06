@@ -13,7 +13,7 @@ const Banner = () => {
                 <h4 className="banner-sub-heading">EVEREST</h4>
                 <h1 className="banner-main-heading">The ultimate online personal training plans!</h1>
                 <div className='d-flex button-gap'>
-                  <button className="Book-button">Book A Class</button>
+                  <button className="Book-button">Book A className=</button>
                   <button className="About-button">About us</button>
                 </div>
               </div>
